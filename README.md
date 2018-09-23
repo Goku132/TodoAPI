@@ -1,4 +1,4 @@
-#Todo List
+# Todo List
 Rest API  for todo list application.
 Allowing user to create a todo list using python and flask.
 Test run file with python setup.py.
